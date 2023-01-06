@@ -1,0 +1,4 @@
+posts/*.md
+_bin/
+_site/
+deno.lock
