@@ -4,5 +4,21 @@
     "lume": "echo \"import 'lume/cli.ts'\" | deno run --unstable -A -",
     "build": "deno task lume",
     "serve": "deno task lume -s"
+  },
+  "fmt": {
+    "files": {
+      "exclude": [
+        "./_bin",
+        "./_site"
+      ]
+    }
+  },
+  "lint": {
+    "files": {
+      "exclude": [
+        "./_bin",
+        "./_site"
+      ]
+    }
   }
 }
