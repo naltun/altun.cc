@@ -17,6 +17,7 @@ All source code is proudly
 <a href="https://en.wikipedia.org/wiki/Free_software_movement">free
 software</a>. It means that it respects your freedom and digital rights. The
 code is available on
+<a href="https://git.sr.ht/~naltun/altun.cc" target="_blank">sourcehut</a> and
 <a href="https://github.com/naltun/altun.cc" target="_blank">GitHub</a>.
 
 Join me for a healthy dose of learning about our beautiful Earth.
