@@ -14,7 +14,7 @@ You might enjoy this blog if you like anthropology 🫂, geography 🌍, linguis
 ✍️, music 🎶, and software 🖥️.
 
 All source code is proudly
-<a href="https://en.wikipedia.org/wiki/Free_software_movement">free
+<a href="https://en.wikipedia.org/wiki/Free_software_movement" target="_blank">free
 software</a>. It means that it respects your freedom and digital rights. The
 code is available on
 <a href="https://git.sr.ht/~naltun/altun.cc" target="_blank">sourcehut</a> and
