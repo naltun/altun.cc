@@ -12,8 +12,8 @@ Human migration is woven deep into the fabric of humanity. Although Turkic
 culture is not indigenous to Europe, the Turkic peoples that call Europe home
 have left an enduring linguistic and cultural legacy. One such nation lies in
 Southern Moldova and is called Gagauzia. Known as _Gagauz Yeri_ in Gagauz, or
-_Găgăuzia_ in Romanian and Moldovan, this small (1,832 sq km / 707 sq mi)
-region is home to the Gagauz people.
+_Găgăuzia_ in Romanian and Moldovan, this small (1,832 sq km / 707 sq mi) region
+is home to the Gagauz people.
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%"
      src="https://upload.wikimedia.org/wikipedia/commons/6/69/Flag_of_Gagauzia.svg" />
